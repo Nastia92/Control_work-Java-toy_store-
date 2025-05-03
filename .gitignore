@@ -3,7 +3,6 @@
 *.jar
 *.log
 
-
 # Build
 /out/
 target/
@@ -17,3 +16,36 @@ target/
 
 # OS
 Thumbs.db
+
+# Maven
+.mvn/
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Vim
+.vim/
+.vimrc
+
+# Emacs
+*~
+.#*
+
+# Docker
+.docker/
