@@ -1,0 +1,10 @@
+ID: 1, Название: konstructor, Вес: 2
+ID: 1, Название: konstructor, Вес: 2
+ID: 2, Название: robot, Вес: 2
+ID: 1, Название: konstructor, Вес: 2
+ID: 3, Название: doll, Вес: 6
+ID: 3, Название: doll, Вес: 6
+ID: 3, Название: doll, Вес: 6
+ID: 1, Название: konstructor, Вес: 2
+ID: 3, Название: doll, Вес: 6
+ID: 2, Название: robot, Вес: 2
